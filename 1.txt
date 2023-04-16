@@ -1,1 +1,1 @@
-nuris: hello oworld
+nuris: hello world
